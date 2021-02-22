@@ -20,8 +20,7 @@ function sayHello(userName) {
 	
     myName = userName;
 
-    
-	return message = `Привет, мир! Меня зовут ${myName} .`;
+    return message = `Привет, мир! Меня зовут ${myName} .`;
 }
 
 function calculateFormula() {
@@ -29,8 +28,7 @@ function calculateFormula() {
 	let x = 2;
 	let y = 22;
 	let z = 0;
-    
-	let result = x * y + 5 * z + x - 1;
+    let result = x * y + 5 * z + x - 1;
 
     return result;
 }
